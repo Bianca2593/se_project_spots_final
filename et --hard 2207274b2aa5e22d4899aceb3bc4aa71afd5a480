@@ -1,0 +1,240 @@
+[33mcommit 71af91caae87befcce2499c0e581e8cb073a60bf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/reupload-project-9[m[33m, [m[1;31morigin/project-9-new[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mreupload-project-9[m[33m, [m[1;32mproject-9-new[m[33m)[m
+Merge: d5f0835 c4a145a
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Sat May 17 22:40:25 2025 -0600
+
+    Merge branch 'project-9-final-submit'
+
+[33mcommit c4a145a5501f6ee90de25c20e16a831375d2e531[m[33m ([m[1;31morigin/project-9-final-submit[m[33m, [m[1;32mproject-9-final-submit[m[33m)[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Sat May 17 22:35:43 2025 -0600
+
+    Final version of Project 9: Spots
+
+[33mcommit d5f0835575ce58c9ddca905317dd32ac16286b16[m
+Merge: 20ca70e b02cfd4
+Author: Bianca2593 <nechita.bianca@yahoo.com>
+Date:   Sat May 17 22:28:29 2025 -0600
+
+    Merge pull request #2 from Bianca2593/project-9-submit
+    
+    first attempt
+
+[33mcommit b02cfd4f0cf45df4b447d7284b42a03fd028a945[m[33m ([m[1;31morigin/project-9-submit[m[33m, [m[1;31morigin/project-9[m[33m, [m[1;32mproject-9-submit[m[33m, [m[1;32mproject-9-backup[m[33m, [m[1;32mproject-9[m[33m)[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Thu May 15 16:42:16 2025 -0600
+
+    first attempt
+
+[33mcommit 20ca70e6443511366b730ece5305e00fefe3499b[m
+Merge: 2207274 013eaf3
+Author: Bianca2593 <nechita.bianca@yahoo.com>
+Date:   Wed May 14 17:39:49 2025 -0600
+
+    Merge pull request #1 from Bianca2593/project-9
+    
+    This pull request is just a test. Please ignore it.
+
+[33mcommit 013eaf3a45b96acc71bc315078800da1f11219eb[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Wed May 14 17:35:31 2025 -0600
+
+    >commit changes
+
+[33mcommit 2207274b2aa5e22d4899aceb3bc4aa71afd5a480[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Tue Mar 11 08:52:19 2025 -0600
+
+     reset vld
+
+[33mcommit 9b370860a0d85a4bc88926ef8bafc9da6e0f9e45[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Tue Mar 11 01:18:22 2025 -0600
+
+    final update
+
+[33mcommit f4420e3497b11ce6dfbcd03ae2b62958b3b8f4f6[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Mon Mar 10 10:42:13 2025 -0600
+
+    final updates
+
+[33mcommit 4d517539d9d5bda524b4abcf31c2e0e736397d22[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Sun Mar 9 15:00:22 2025 -0600
+
+    bem and reset validation fixed
+
+[33mcommit 4a2b68c8070c15fda534a47d0b29ffe81fd5893f[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Thu Mar 6 14:47:35 2025 -0700
+
+    modifiers changes
+
+[33mcommit ef149a68f3b978e900b0aa58a5362afdc4e295c9[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Wed Mar 5 19:27:08 2025 -0700
+
+    reset function
+
+[33mcommit 1a2e3161d4d827336f9cdd794f14f2fb44112fda[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Sun Mar 2 12:19:07 2025 -0700
+
+    project 6 validation
+
+[33mcommit 56a52595ecd08526cb91ebec6e310312781b0bde[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Thu Feb 20 15:56:23 2025 -0700
+
+    close button
+
+[33mcommit f89851de800d34adac4a9dabda36bddd91fdf795[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Thu Feb 20 12:14:36 2025 -0700
+
+    final updates
+
+[33mcommit 3276c03140b7b204b26a9233842095238b3a1dbe[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Thu Feb 20 11:59:52 2025 -0700
+
+    x button and modal image 320
+
+[33mcommit 22cc1f8bbbf979c38bd5e484a42f1168223c84a6[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Wed Feb 19 14:19:57 2025 -0700
+
+    modal 320
+
+[33mcommit b693fa602eff0872947feee0b2a0f800f3219be4[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Wed Feb 19 09:37:54 2025 -0700
+
+    updates close button and modal
+
+[33mcommit c91efa532950b0fb9def3602728196a36147c788[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Tue Feb 18 21:42:02 2025 -0700
+
+     updates and fixed close btn
+
+[33mcommit d33ece316e04fb8b5e48805902d0318ad60c3954[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Sun Feb 16 14:29:38 2025 -0700
+
+    final updates
+
+[33mcommit 947631705ff46e39a74f913ecfa941cca6a50d78[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Thu Feb 13 13:24:02 2025 -0700
+
+     changes modal design
+
+[33mcommit 6bb7588b6471859831b69c7fafc5908f443daab2[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Thu Feb 13 12:05:39 2025 -0700
+
+    like and close button&modal
+
+[33mcommit e3c1d3a76b15bf387017ea8854d303ba41c17dae[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Sat Feb 1 16:06:20 2025 -0700
+
+    changes modal
+
+[33mcommit 317bb2e4e51d69c6276f577f56a5fd2ec72a69bd[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Thu Jan 30 22:28:46 2025 -0700
+
+    changes cards
+
+[33mcommit 829d63a2e1873d446065af5ed145610713963846[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Thu Jan 30 15:31:24 2025 -0700
+
+    card text
+
+[33mcommit dd7cdad42f1cb385acec29a3d9c1af1d4b27db8b[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Thu Jan 30 14:46:07 2025 -0700
+
+    forms and cards
+
+[33mcommit 1eaf32017bb3f77a9704e250d908eeaaf0bb3614[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Wed Jan 29 14:16:12 2025 -0700
+
+    Dom
+
+[33mcommit 89ad07ce1062f47f7cb8f01796e44e08b9c6ecd3[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Sun Jan 26 14:24:34 2025 -0700
+
+    modal markup and styles
+
+[33mcommit 8112c4bb584fe11399e8fa3edcd81c94c27a7603[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Thu Jan 23 22:00:07 2025 -0700
+
+    console array
+
+[33mcommit 1912ba1c78948aa3b84dfe1f86e19fca3bd49f5b[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Tue Jan 21 13:55:23 2025 -0700
+
+    read me video
+
+[33mcommit 4c208b5f89511ff3ef1333074cb9d1b5cf52909e[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Tue Jan 21 13:54:50 2025 -0700
+
+    video read me
+
+[33mcommit 0483cbc91d8000b009a8c242358276917c715f9d[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Tue Jan 14 02:25:25 2025 -0700
+
+    corrections
+
+[33mcommit 0eb70733fdb214486b387fb984755bc765a0884f[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Tue Jan 14 01:52:13 2025 -0700
+
+    final upd
+
+[33mcommit cfd83f95ada29f45aa6b3daa33e797c14f596362[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Mon Jan 13 13:06:46 2025 -0700
+
+    updates
+
+[33mcommit 92c6a88c8600610ff11c01201f69a78ab64e3dbd[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Sun Jan 12 09:03:35 2025 -0700
+
+    readme description and final changes
+
+[33mcommit a30c3076a56375ec9fb76daacd1863d29aab4fa7[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Sat Jan 11 16:31:36 2025 -0700
+
+    add normalize css and readme
+
+[33mcommit aaf0264513b14c5782f62147d85fd2862cb3a70d[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Sat Jan 11 16:16:40 2025 -0700
+
+    read me description
+
+[33mcommit 1e301b57e35ea852d006122cab604c197c3838b7[m
+Author: Bianca Nechita <nechita,bianca@yahoo.com>
+Date:   Sat Jan 11 15:45:35 2025 -0700
+
+    finished cards
+
+[33mcommit c0d314d5adc5b9c801b9a45c262093926c246c95[m
+Author: Bianca2593 <nechita.bianca@yahoo.com>
+Date:   Thu Jan 9 19:15:15 2025 -0700
+
+    Initial commit
