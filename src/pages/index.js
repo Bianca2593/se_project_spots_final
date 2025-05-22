@@ -77,7 +77,7 @@ api
     profileDescription.textContent = userData.about;
 
     data.forEach((item) => {
-      renderCard(item);
+      renderCard(item, 'append'); // ✅ păstrează ordinea corectă din API
     });
   })
   .catch(console.error);
@@ -249,7 +249,7 @@ function handleNewPostFormSubmit(evt) {
   api
     .addNewCard(inputValues)
     .then((cardData) => {
-      renderCard(cardData);
+      renderCard(cardData, 'append'); // ✅ adaugă corect noul card la final
       evt.target.reset();
       closeModal(newPostModal);
     })
