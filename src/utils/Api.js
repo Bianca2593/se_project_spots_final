@@ -76,3 +76,4 @@ export default class Api {
     }).then(this._checkResponse);
   }
 }
+// end of Api class
