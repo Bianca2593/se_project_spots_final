@@ -24,9 +24,10 @@
             <button class="profile__avatar_edit-button" type="button">
               <img
                 class="profile__avatar_edit-icon"
-                src="<%=require('../images/pen.svg')%>"
+                src="<%=require('../images/pen-white.svg')%>"
                 alt="edit profile"
               />
+               <span class="profile__avatar_edit-text">Edit Avatar</span>
             </button>
             <img
               src="<%=require('../images/avatar.jpg')%>"
@@ -68,7 +69,7 @@
         </section>
       </main>
       <footer class="footer">
-        <p class="footer__copyright">2024 &copy; Spots</p>
+        <p class="footer__copyright">2025 &copy; Spots</p>
       </footer>
       <div class="modal" id="edit-modal">
         <div class="modal__container">
@@ -175,31 +176,32 @@
           </form>
         </div>
       </div>
-
-      <div class="modal" id="delete-modal">
-        <div class="modal__container modal__container__delete">
-          <button
-            class="modal__close-button modal__close-button_delete"
-          ></button>
-          <h2 class="modal__header modal__delete-prompt">
-            Are you sure you want to delete this image?
-          </h2>
-          <form
-            name="delete-form"
-            class="modal__form modal__form__delete"
-            id="delete-form"
-          >
-            <button
-              type="submit"
-              class="modal__save-button modal__save-button_delete"
-            >
-              Delete
-            </button>
-            <button type="button" class="modal__cancel-button">Cancel</button>
-          </form>
-        </div>
-      </div>
-
+       <div id="delete-modal" class="modal">
+  <div class="modal__container modal__container__delete">
+    <button
+      type="button"
+      class="modal__close-button modal__close-button_delete"
+    ></button>
+    <h2 class="modal__header modal__delete-prompt">
+      Are you sure you want to delete this image?
+    </h2>
+    <form id="delete-form" class="modal__form modal__form__delete">
+      <button
+        type="submit"
+        class="modal__save-button modal__save-button_delete"
+      >
+        Delete
+      </button>
+      <button
+        type="button"
+        id="cancel-delete-btn"
+        class="modal__cancel-button"
+      >
+        Cancel
+      </button>
+    </form>
+  </div>
+  </div>
       <div class="modal" id="preview-modal">
         <div class="modal__content modal__content_type_preview">
           <button

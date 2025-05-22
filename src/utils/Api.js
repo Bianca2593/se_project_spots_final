@@ -1,3 +1,6 @@
+/**
+ * API class to handle all server interactions for the Spots project.
+ */
 export default class Api {
   constructor({ baseUrl, headers }) {
     this._baseUrl = baseUrl;
@@ -23,7 +26,7 @@ export default class Api {
 
   editUserInfo({ name, about }) {
     return fetch(`${this._baseUrl}/users/me`, {
-      method: "PATCH",
+      method: 'PATCH',
       headers: this._headers,
       body: JSON.stringify({
         name,
@@ -34,7 +37,7 @@ export default class Api {
 
   addNewCard({ name, link }) {
     return fetch(`${this._baseUrl}/cards`, {
-      method: "POST",
+      method: 'POST',
       headers: this._headers,
       body: JSON.stringify({
         name,
@@ -51,21 +54,21 @@ export default class Api {
 
   deleteCard(id) {
     return fetch(`${this._baseUrl}/cards/${id}`, {
-      method: "DELETE",
+      method: 'DELETE',
       headers: this._headers,
     }).then(this._checkResponse);
   }
 
   handleLikeStatus(id, isLiked) {
     return fetch(`${this._baseUrl}/cards/${id}/likes`, {
-      method: isLiked ? "DELETE" : "PUT",
+      method: isLiked ? 'DELETE' : 'PUT',
       headers: this._headers,
     }).then(this._checkResponse);
   }
 
   updateProfilePicture({ avatar }) {
     return fetch(`${this._baseUrl}/users/me/avatar`, {
-      method: "PATCH",
+      method: 'PATCH',
       headers: this._headers,
       body: JSON.stringify({
         avatar,
@@ -73,3 +76,4 @@ export default class Api {
     }).then(this._checkResponse);
   }
 }
+// end of Api class
